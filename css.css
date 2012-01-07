@@ -21,21 +21,21 @@ a { color: #f56df7 }
     height: 20px;
     cursor: pointer;
     margin-bottom: 2px;
-    background: url(img/tweet.png) red no-repeat;
+    background: url(img/tweet.png) black no-repeat;
 }
 .buffer_button {
     width: 55px;
     height: 20px;
     cursor: pointer;
     margin-bottom: 2px;
-    background: url(img/buffer.png) red no-repeat;
+    background: url(img/buffer.png) black no-repeat;
 }
 .fork_button {
     width: 55px;
     height: 20px;
     cursor: pointer;
     margin-bottom: 2px;
-    background: url(img/fork.png) red no-repeat;
+    background: url(img/fork.png) black no-repeat;
 }
 .skull {
     font-size: 150px;
